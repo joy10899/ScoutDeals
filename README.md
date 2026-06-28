@@ -1,9 +1,6 @@
-### `README.md`
-
-````markdown
 # ScoutDeals — Saved Deals Feature
 
-A SwiftUI saved deals screen built in ~2 hours, targeting iOS 17+.
+A SwiftUI take-home assessment built in ~2 hours, targeting iOS 17+.
 
 By Joy Tran
 ---
@@ -24,7 +21,7 @@ ScoutDeals/
         ├── NotificationSheet.swift  — price alert sheet with inline validation
         └── SavingsSummarySheet.swift — total savings breakdown on tag tap
 ```
-<video src="https://github.com/user-attachments/assets/60aca77f-f8e5-4053-9141-577813503665" controls="controls" style="max-width: 100%;"></video>
+https://www.loom.com/share/9759c12ed953472692aa0288cf3d89b9
 ---
 
 ## Questions
@@ -47,4 +44,3 @@ The price alert validation in `NotificationSheet` shows an error on
 the very first keystroke. It works, but it might feel too aggressive.
 Would love to know if the team prefers waiting until the field loses
 focus before showing the hint.
-````
