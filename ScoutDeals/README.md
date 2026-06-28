@@ -25,6 +25,10 @@ ScoutDeals/
         └── SavingsSummarySheet.swift — total savings breakdown on tag tap
 ```
 
+
+https://github.com/user-attachments/assets/ca6f32dc-c1f4-4e78-bc60-fdb118ea33da
+
+
 ---
 
 ## Questions
