@@ -24,12 +24,7 @@ ScoutDeals/
         ├── NotificationSheet.swift  — price alert sheet with inline validation
         └── SavingsSummarySheet.swift — total savings breakdown on tag tap
 ```
-
-
-<video src="https://github.com/user-attachments/assets/60aca77f-f8e5-4053-9141-577813503665" controls="controls" style="max-width: 100%;">
-</video>
-
-
+<video src="https://github.com/user-attachments/assets/60aca77f-f8e5-4053-9141-577813503665" controls="controls" style="max-width: 100%;"></video>
 ---
 
 ## Questions
